@@ -1,0 +1,39 @@
+.text {
+	border: dashed 1px #634F36;
+	background: #fffff5;
+	font-family: "Courier New", Courier, monospace; 
+	padding: 7px;
+	font-size: 80%;
+}
+.head-item {
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+	width: 50%;
+	display: inline-block;
+	color: #465457;
+	text-align: center;
+}
+.body-item {
+	width: 40%;
+	margin-bottom: 50px;
+	text-align: center;
+}
+.item {
+	margin-left: 30%
+}
+img {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 300px;
+	height: 200px;
+}
+a {
+	color:blue;
+}
+hr {
+	margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	box-shadow: 0 0 10px 1px black;
+}
